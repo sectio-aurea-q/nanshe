@@ -8,9 +8,9 @@
 >
 > The useful lever is deliberate **deuteration** (e.g. deutetrabenazine, FDA-approved).
 > NANSHE's successor **ZENO** computes the quantum fraction η = 1 − 1/κ of the
-> [Hackfort Equation](https://sectio-aurea-q.github.io/hackfort-equation.html) with a validated
-> Eckart tunneling model and predicts the real benefit of deuteration after metabolic switching
-> (deutetrabenazine: ×1.8–2.2 predicted, ×2.0 observed). ZENO will be published separately.
+> [Hackfort Equation](https://sectio-aurea-q.github.io/hackfort-equation.html) with an
+> Eckart tunneling model and models the benefit of deuteration after metabolic switching.
+> ZENO will be published separately.
 
 The code is kept here unchanged as an open record of how the work developed.
 
